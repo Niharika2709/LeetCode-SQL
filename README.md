@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Niharika2709/LeetCode-SQL/tree/master/1517-find-users-with-valid-e-mails) |
