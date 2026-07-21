@@ -1,6 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
-
 WITH all_friends AS
 (
     SELECT requester_id AS id
